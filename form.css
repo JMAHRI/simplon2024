@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    color: black;
+}
+p{
+    text-align: center;
+    font-family: Verdana ;
+    line-height: 6;
+    background-color: #918237;
+    color:black;
+    font-weight: bold;
+}
+
+  a{
+    color:rgb(4, 58, 4);
+    font-family: Cochin, ;
+  }
+  h2{
+  font-weight: bold; 
+  color:rgb(4, 58, 4);
+  }
+  ul{
+    font-family:Cochin;
+    font-weight: 800;
+    
+
+  }
+  li{
+    padding:7PX;
+  }
+  body {
+    background-color: beige;
+  }
+  input {
+    background-color:rgb(195, 203, 158);
+    font-weight: 50px;
+  }
